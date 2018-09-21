@@ -1,5 +1,8 @@
 _repo: The-Complete-Poems-of-Francis-Ledwidge-with-Introductions-by-Lord-Dunsany_53621
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53621-h/images/cover.jpg
 creator:
   author:
     agent_name: Ledwidge, Francis
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2685
     wikipedia: http://en.wikipedia.org/wiki/Edward_Plunkett,_18th_Baron_Dunsany
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53621#The-Complete-Poems-of-Francis-Ledwidge-with-Introductions-by-Lord-Dunsany
 gutenberg_issued: '2016-11-28'
 gutenberg_type: Text
 identifiers:
